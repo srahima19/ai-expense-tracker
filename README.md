@@ -129,10 +129,7 @@ ai-expense-tracker/
 
 ## 👨‍💻 Author
 
-- **Your Name**
-- Course / Institute Name
-- Project Submission — May 2026
-
+- **Rahima Ali**
 ---
 
 ## 📄 License
